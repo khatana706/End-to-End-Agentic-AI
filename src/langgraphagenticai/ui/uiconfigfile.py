@@ -17,3 +17,4 @@ class Config:
 
     def get_page_title(self):
         return self.config["DEFAULT"].get("PAGE_TITLE")
+    
