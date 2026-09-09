@@ -1,4 +1,4 @@
-#  End-to-End ChatBot  Based on Agentic AI
+#  End-to-End Agentic AI
 
 An **End-to-End Agentic AI application** built with **LangGraph, LangChain, Groq, Tavily, and Streamlit**.
 
