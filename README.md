@@ -369,7 +369,7 @@ These workflows are implemented through the project's `GraphBuilder` class.
 
 ---
 
-##  AI News Output
+## AI News Output
 
 When the AI News workflow runs, the generated summary is stored in:
 
@@ -390,7 +390,7 @@ The news agent retrieves AI-related news and creates a Markdown summary containi
 
 ---
 
-##  Tool Calling
+## Tool Calling
 
 The tool-enabled chatbot currently uses **Tavily Search**.
 
@@ -429,7 +429,7 @@ The Tavily search tool is configured as a LangGraph tool node and can return up 
 
 ---
 
-##  Why LangGraph?
+## LangGraph
 
 LangGraph is useful for building agentic applications where the application needs:
 
@@ -476,8 +476,6 @@ git push origin feature/your-feature
 ---
 
 ##  Disclaimer
-
-This project is intended for **educational and experimental purposes**.
 
 API usage may incur costs depending on the provider and your account configuration.
 
